@@ -60,3 +60,5 @@ O botão de currículo informa que o PDF está em preparação. Quando o documen
 ## Créditos do wallpaper
 
 A foto da McLaren no GP de Singapura 2025 é de Liauzh, via Wikimedia Commons, licenciada em [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). A imagem é carregada diretamente do Wikimedia Commons; o crédito também aparece no desktop.
+
+O símbolo laranja da McLaren usado nos ícones está em `public/mclaren-mark.png`, recortado da marca original `public/mclaren-racing-logo.png`, obtida do [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:McLaren_Racing_logo.png). McLaren é uma marca registrada de seus titulares.
